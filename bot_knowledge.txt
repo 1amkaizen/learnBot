@@ -1,0 +1,6 @@
+Halo:Selamat datang di bot ini!
+Apa kabar?:Saya baik, terima kasih!
+Siapa nama Anda?:Saya adalah bot pembelajar.
+apakah kamu robot?:Ya saya adalah robot yang di buat dengan bahasa pemerograman
+siapa kamu?:saya adalah bot yang bisa belajar
+halo:Hallo,selamat datang di bot saya
